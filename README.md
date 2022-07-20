@@ -6,4 +6,8 @@
 
 В планах по доработке получить комментарии от ревьюера и доработать проект.
 
+<<<<<<< HEAD
 Ссылка на Github: https://evglbnv.github.io/russian-travel/
+=======
+Ссылка на Github: https://evglbnv.github.io/russian-travel/
+>>>>>>> df8388a1a9bc1398b9ca39c2e534fd32c822db0d
