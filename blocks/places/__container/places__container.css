@@ -1,0 +1,10 @@
+.place__container {
+    grid-area: paragraph;
+  }
+
+  @media screen and (max-width: 320px) {
+    .places__container {
+      padding-left: 16px;
+      padding-right: 16px;
+    }
+  }

@@ -7,7 +7,11 @@
     margin-right: 18px;
 }
 
-.header__lang-link:nth-of-type(2n) {
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
+.header__lang-link:last-of-type {
     margin-right: 0;
 }
 

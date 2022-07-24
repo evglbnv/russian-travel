@@ -1,4 +1,4 @@
-.place__link {
+.places__link {
         margin: 0;
         margin-top: 12px;
         font-style: normal;
@@ -9,6 +9,6 @@
         color: #FFFFFF;
 }
 
-.place__link:hover {
-        opacity: 0.3;
+.places__link:hover {
+        opacity: 0.8;
     }
